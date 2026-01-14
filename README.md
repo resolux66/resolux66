@@ -35,7 +35,7 @@ Self taught a Career-transitioning developer with a unique background and strong
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,tailwind,python,dotnet,cs,github,aws" />
+    <img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,tailwind,python,flask,dotnet,cs,vscode,figma,github,aws" />
   </a>
 </p>
 
