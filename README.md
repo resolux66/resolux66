@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hi there! 👋 I'm Jozef
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Angular+%26+React+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&color=F5F7F4&background=080808F6&vCenter=true&multiline=true&width=575&height=200&lines=Full-Stack+Developer;Angular+React+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
 </div>
 
 
@@ -31,16 +31,10 @@ Self taught a Career-transitioning developer with a unique background and strong
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,tailwind,dotnet,cs,github" />
+    <img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,tailwind,python,dotnet,cs,github,aws" />
   </a>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
+
 
 
