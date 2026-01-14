@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 
 Self taught a Career-transitioning developer with a unique background and strong problem-solving skills. I build responsive, user-focused web applications using modern JavaScript frameworks.
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jozef-mrazik-7b28a4375/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/resolux66)
+[![Gmail](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mrazikj.j@gmail.com)
+
 
 
 ## 🔧 Technologies & Tools
