@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hi there! 👋 I'm Jozef
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&color=F5F7F4&background=080808F6&vCenter=true&multiline=true&width=575&height=200&lines=Full-Stack+Developer;Angular+React+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&color=F5F7F4&background=080808F6&vCenter=true&multiline=true&width=575&height=200&lines=Frontend+Developer;Angular+React+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
 </div>
 
 
